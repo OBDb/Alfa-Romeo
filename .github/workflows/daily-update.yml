@@ -13,8 +13,8 @@ permissions:
 
 # Make prefixes for this repo
 env:
-  FILTER_ARGS: --filter-prefix=Make1- --filter-prefix=Make2-
-  SIGNAL_PREFIX: ALFA-ROMEO
+  FILTER_ARGS: --filter-prefix=AlfaRomeo- --filter-prefix=Jeep- --filter-prefix=Dodge- --filter-prefix=Chrysler- --filter-prefix=Ram- --filter-prefix=VuaxhallOpel- --filter-prefix=Citroen- --filter-prefix=Peugeot- --filter-prefix=Fiat- --filter-prefix=Maserati- --filter-prefix=DS-
+  SIGNAL_PREFIX: ALFAROMEO
 
 concurrency:
   group: "data-update"
